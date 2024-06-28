@@ -17,4 +17,5 @@
 ![微信图片_20240628223840](https://github.com/Y123G123/Y123G123-Bluetooth-RFID-information-monitoring/assets/142648724/1bae1af9-029b-448b-b02b-054369ae44c8)
 
 
-
+'''
+测试成功，准备进行PCB画图、打板
