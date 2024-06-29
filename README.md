@@ -19,3 +19,11 @@
 
 '''
 测试成功，准备进行PCB画图、打板
+
+![009(水印版)](https://github.com/Y123G123/Y123G123-Bluetooth-RFID-information-monitoring/assets/142648724/b42b73e1-c612-441d-92e2-19ab3d01d200)
+
+![010](https://github.com/Y123G123/Y123G123-Bluetooth-RFID-information-monitoring/assets/142648724/13137d42-dfec-4ae6-b871-406065737428)
+
+![011(水印版)](https://github.com/Y123G123/Y123G123-Bluetooth-RFID-information-monitoring/assets/142648724/85542a2f-f614-4d6f-9811-d69922981c9b)
+
+![012(水印版)](https://github.com/Y123G123/Y123G123-Bluetooth-RFID-information-monitoring/assets/142648724/0c102778-9281-457b-ac76-7a718c21245d)
