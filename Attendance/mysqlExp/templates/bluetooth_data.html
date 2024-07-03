@@ -1,0 +1,24 @@
+<!-- bluetooth_data.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bluetooth Data</title>
+</head>
+<body>
+    <h1>Bluetooth Data</h1>
+    <table border="1">
+        <tr>
+            <th>卡号</th>
+            <th>状态</th>
+            <th>时间戳</th>
+        </tr>
+        {% for data in bluetooth_data %}
+        <tr>
+            <td>{{ data.card_number|default:"非法卡" }}</td>
+            <td>{{ data.status }}</td>
+            <td>{{ data.timestamp }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
